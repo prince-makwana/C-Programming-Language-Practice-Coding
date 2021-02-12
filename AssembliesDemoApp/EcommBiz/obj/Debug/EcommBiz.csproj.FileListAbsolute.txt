@@ -1,0 +1,5 @@
+C:\Users\iPrince\Desktop\ASP.NET practicals\C# Programming Language\AssembliesDemoApp\EcommBiz\bin\Debug\EcommBiz.dll
+C:\Users\iPrince\Desktop\ASP.NET practicals\C# Programming Language\AssembliesDemoApp\EcommBiz\bin\Debug\EcommBiz.pdb
+C:\Users\iPrince\Desktop\ASP.NET practicals\C# Programming Language\AssembliesDemoApp\EcommBiz\obj\Debug\EcommBiz.csproj.CoreCompileInputs.cache
+C:\Users\iPrince\Desktop\ASP.NET practicals\C# Programming Language\AssembliesDemoApp\EcommBiz\obj\Debug\EcommBiz.dll
+C:\Users\iPrince\Desktop\ASP.NET practicals\C# Programming Language\AssembliesDemoApp\EcommBiz\obj\Debug\EcommBiz.pdb

@@ -1,0 +1,12 @@
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\bin\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.exe
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\bin\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.deps.json
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\bin\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.runtimeconfig.json
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\bin\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.runtimeconfig.dev.json
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\bin\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.dll
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\bin\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.pdb
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\obj\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.AssemblyInfoInputs.cache
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\obj\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.AssemblyInfo.cs
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\obj\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.csproj.CoreCompileInputs.cache
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\obj\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.dll
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\obj\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.pdb
+C:\Users\iPrince\Desktop\C# Programming Language\SortingIntArrayUsingForLoop\SortingIntArrayUsingForLoop\obj\Debug\netcoreapp3.1\SortingIntArrayUsingForLoop.genruntimeconfig.cache

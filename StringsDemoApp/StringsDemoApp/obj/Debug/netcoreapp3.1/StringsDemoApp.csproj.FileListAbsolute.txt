@@ -1,0 +1,13 @@
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\bin\Debug\netcoreapp3.1\StringsDemoApp.exe
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\bin\Debug\netcoreapp3.1\StringsDemoApp.deps.json
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\bin\Debug\netcoreapp3.1\StringsDemoApp.runtimeconfig.json
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\bin\Debug\netcoreapp3.1\StringsDemoApp.runtimeconfig.dev.json
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\bin\Debug\netcoreapp3.1\StringsDemoApp.dll
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\bin\Debug\netcoreapp3.1\StringsDemoApp.pdb
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\obj\Debug\netcoreapp3.1\StringsDemoApp.csprojAssemblyReference.cache
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\obj\Debug\netcoreapp3.1\StringsDemoApp.AssemblyInfoInputs.cache
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\obj\Debug\netcoreapp3.1\StringsDemoApp.AssemblyInfo.cs
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\obj\Debug\netcoreapp3.1\StringsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\obj\Debug\netcoreapp3.1\StringsDemoApp.dll
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\obj\Debug\netcoreapp3.1\StringsDemoApp.pdb
+C:\Users\iPrince\source\repos\StringsDemoApp\StringsDemoApp\obj\Debug\netcoreapp3.1\StringsDemoApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\bin\Debug\netcoreapp3.1\EnumsDemoApp.exe
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\bin\Debug\netcoreapp3.1\EnumsDemoApp.deps.json
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\bin\Debug\netcoreapp3.1\EnumsDemoApp.runtimeconfig.json
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\bin\Debug\netcoreapp3.1\EnumsDemoApp.runtimeconfig.dev.json
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\bin\Debug\netcoreapp3.1\EnumsDemoApp.dll
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\bin\Debug\netcoreapp3.1\EnumsDemoApp.pdb
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\obj\Debug\netcoreapp3.1\EnumsDemoApp.csprojAssemblyReference.cache
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\obj\Debug\netcoreapp3.1\EnumsDemoApp.AssemblyInfoInputs.cache
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\obj\Debug\netcoreapp3.1\EnumsDemoApp.AssemblyInfo.cs
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\obj\Debug\netcoreapp3.1\EnumsDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\obj\Debug\netcoreapp3.1\EnumsDemoApp.dll
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\obj\Debug\netcoreapp3.1\EnumsDemoApp.pdb
+C:\Users\iPrince\Desktop\C# Programming Language\EnumsDemo\EnumsDemoApp\obj\Debug\netcoreapp3.1\EnumsDemoApp.genruntimeconfig.cache
